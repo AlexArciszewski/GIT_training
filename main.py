@@ -6,7 +6,7 @@ def main():
 
 def my_commit():
     "Method that is used to cange something in program and do commit"
-    print("My change in program to do first commit")
+    print("My change in program to do first commit with terminal")
 
 
 if __name__ == '__main__':
