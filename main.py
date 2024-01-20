@@ -15,4 +15,4 @@ def my_sec_commit():
 if __name__ == '__main__':
     main()
     my_commit()
-
+    my_sec_commit()
